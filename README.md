@@ -7,8 +7,7 @@
 
 An individual Python analytics project exploring 2024 Uber ride-booking activity. The notebook combines data inspection, data cleaning, descriptive statistics, grouped analysis, visual exploration and an OLS regression model for completed rides.
 
-> **Project context:** The broader university assignment was completed collaboratively. The Python notebook published in this repository was **independently developed by Alexandru Măroiu**. This repository intentionally includes only the Python component, not the SAS or SAS Enterprise Guide work.
-
+> **Project context:** The broader university assignment was completed collaboratively. The Python notebook published in this repository was **independently developed by me**.
 ## Project overview
 
 The analysis focuses on five questions:
