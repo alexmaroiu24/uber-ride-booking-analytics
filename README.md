@@ -33,7 +33,7 @@ The project uses a 2024 Uber ride-booking dataset sourced from Kaggle and suppli
 
 The data include booking status, vehicle type, pickup and drop-off locations, booking value, ride distance, average arrival/trip times, ratings and payment method.
 
-**Data provenance:** The accompanying university project document identifies Kaggle as the source. The exact Kaggle listing URL and license were not included in the supplied materials. Check the original listing's terms before redistributing or reusing the dataset.
+
 
 ## Selected findings
 
